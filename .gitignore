@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+artifacts/*.joblib
+.DS_Store
+create_revised_pdfs.py
+*.pdf
