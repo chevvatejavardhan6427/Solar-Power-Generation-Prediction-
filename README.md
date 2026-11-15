@@ -1,4 +1,4 @@
-# ☀️ Solar Lens – Solar Power Generation Prediction
+# ☀️ Solar Lens – Solar Power Generation Prediction.
 
 A coverage-aware, time-safe solar-output prediction and deviation-triage MVP built for hackathon demonstration.
 
